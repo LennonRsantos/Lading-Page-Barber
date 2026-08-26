@@ -1,14 +1,24 @@
-### Olá! Eu sou Lennon Santos 🖐
+# **Landing Page - Barbearia**
 
-### PROJETO - 🧔 LANDING PAGE BARBEARIA
+Landing page elegante, responsiva e performática desenvolvida para apresentar serviços, galeria de cortes e agendamentos de uma barbearia moderna. O projeto foca em oferecer uma experiência visual atraente e navegação fluida para potencializar a conversão de clientes.
 
-### Objetivo
-Este projeto é a apresentação de uma barbearia, com foco em exibir os serviços oferecidos, mostrar a localização e apresentar o ambiente.
+---
 
-### Tecnologias Utilizadas
-<div style="display: inline-block">
-  <img align="center" alt="Html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="Css 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</div>
+## Tecnologias Utilizadas
+
+- **HTML5** (Estruturação semântica do conteúdo)
+- **CSS3 / SASS (SCSS)** (Estilização avançada, modularização e animações)
+- **JavaScript** (Interatividade e dinamismo)
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
+Landing_Page_Barber/
+├── assets/          # Imagens, vetores e ícones (logos, cortes, backgrounds)
+├── partials/        # Módulos SASS (_colors.scss, _header.scss, _layout.scss)
+├── index.html       # Arquivo principal da aplicação
+├── style.scss       # Arquivo principal de estilização em SASS
+├── style.css        # CSS compilado
+└── style.css.map    # Mapeamento do CSS compilado
